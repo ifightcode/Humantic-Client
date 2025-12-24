@@ -1,5 +1,5 @@
 [project]
-name = "humantic-ai"
+name = "humanticclient"
 version = "0.1.0"
 description = "Python client for Humantic AI API - Analyze LinkedIn profiles for sales and hiring insights"
 readme = "README.md"

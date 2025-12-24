@@ -1,4 +1,4 @@
-# humantic-ai
+# humanticclient
 
 Python client for [Humantic AI](https://humantic.ai) API - Analyze LinkedIn profiles for sales and hiring insights.
 
@@ -13,7 +13,7 @@ Python client for [Humantic AI](https://humantic.ai) API - Analyze LinkedIn prof
 ## Installation
 
 ```bash
-pip install humantic-ai
+pip install humanticclient
 ```
 
 ## Configuration
